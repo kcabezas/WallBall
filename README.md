@@ -1,2 +1,2 @@
 # WallBall
-A Wall Ball game programmed in C.
+Mode3 Wall Ball game programmed in C.
